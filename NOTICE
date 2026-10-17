@@ -1,0 +1,13 @@
+Kaggriculture
+Copyright 2026 Dominic Bavuso
+
+The code in this repository (the planners, layers, tools and tests) is
+licensed under the Apache License, Version 2.0; see LICENSE.
+
+Ladder entries described in the README used open-source Apache-2.0 base agents
+published as public Kaggle notebooks for the competition, by haodou092,
+tetsutani (tetsu2131), Thomas Tschinkel, yhay81, destbreso, aurax7, prvsiyan,
+Dmitrii Gluzdov and Ahmed Berat Ozer. Those agents are not included here.
+
+The simulator is the official kaggle-environments package (Apache-2.0),
+installed from PyPI and not redistributed.
